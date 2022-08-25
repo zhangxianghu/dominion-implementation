@@ -1,0 +1,8 @@
+Refactored functions:
+
+smithy			card_smithy()
+village			card_village()
+council_room	card_council_room()
+minion			card_minion()
+baron			card_baron
+
